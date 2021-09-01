@@ -13,7 +13,7 @@ So far, I've worked the most with embedded programming, signal processing and an
     <a href="https://github.com/gonzadavidov/food-recognition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gonzadavidov&repo=food-recognition&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
     <a href="https://github.com/gonzadavidov/LoRaWAN-Gateway"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gonzadavidov&repo=LoRaWAN-Gateway&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
     <a href="https://github.com/gonzadavidov/Catan"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gonzadavidov&repo=Catan&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
-<a href="https://github.com/gonzadavidov/control-tp-final"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gonzadavidov&repo=Control-tp-final&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+<a href="https://github.com/gonzadavidov/control-tp-final"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gonzadavidov&repo=control-tp-final&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me 
