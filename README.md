@@ -17,7 +17,7 @@ So far, I've worked the most with embedded programming, signal processing and an
 
 ## 🙋‍♂️ Connect with me 
 <p align="center">
-<a href="https://www.linkedin.com/in/gonzalo-joaquin-davidov/"><img alt="LinkedIn" title="Twitter" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gonzalo-joaquin-davidov-8397051b4/"><img alt="LinkedIn" title="Twitter" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 ## 💻 GitHub Profile Stats
